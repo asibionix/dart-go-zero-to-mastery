@@ -15,6 +15,7 @@ This repository is designed to help learners master:
 - **Flowcharting** to visualize logic  
 - Implementing solutions in both **Dart** and **Go**  
 - Building clean, efficient, and production-ready code  
+- Mastering **OOP, data structures, algorithms, and graph-based logic**
 
 Each topic progresses from **concept → logic → visualization → implementation**.
 
@@ -27,15 +28,10 @@ Each topic progresses from **concept → logic → visualization → implementat
 | 1 | Logical Thinking & Algorithm Design | Week 1–2 | Develop structured thinking using pseudocode and flowcharts |
 | 2 | Dart Foundations | Week 3–5 | Learn syntax, data types, loops, functions, collections |
 | 3 | Go Foundations | Week 6–8 | Learn Go syntax, types, functions, structs, packages |
-| 4 | Cross-Language Problem Solving | Week 9–12 | Solve logical problems using both Dart & Go |
-| 5 | Real-world Projects | Week 13–20 | Build complete projects (Flutter + Go backend) |
-
----
-
-## 🗂️ Repository Structure
-
-Each topic is organized into a dedicated folder containing logic, visualization, and implementations.
-
+| 4 | Object-Oriented Programming | Week 9–10 | Master OOP concepts in both Dart and Go |
+| 5 | Data Structures & Algorithms | Week 11–14 | Implement and analyze core DSA concepts |
+| 6 | Advanced Logic & Graphs | Week 15–17 | Learn recursion, graph algorithms, and problem-solving |
+| 7 | Real-world Projects | Week 18–22 | Build complete projects (e.g., Flutter + Go backend) |
 
 ---
 
@@ -63,6 +59,7 @@ This repository builds the ability to:
 - Visualize algorithmic flow  
 - Apply consistent logic across different languages  
 - Transition seamlessly from **pseudocode → flowchart → real code**
+- Strengthen **problem-solving and computational thinking**
 
 The learning approach aligns with **official Dart** and **Go documentation standards**.
 
@@ -72,10 +69,10 @@ The learning approach aligns with **official Dart** and **Go documentation stand
 
 | Language | Official Source |
 |-----------|------------------|
-| 🦋 Dart | [https://dart.dev/language](https://dart.dev/language) |
-| 💨 Dart Guides | [https://dart.dev/guides](https://dart.dev/guides) |
-| 🐹 Go Tour | [https://go.dev/tour/](https://go.dev/tour/) |
-| 📘 Go by Example | [https://gobyexample.com/](https://gobyexample.com/) |
+| Dart Language | [https://dart.dev/language](https://dart.dev/language) |
+| Dart Guides | [https://dart.dev/guides](https://dart.dev/guides) |
+| Go Tour | [https://go.dev/tour/](https://go.dev/tour/) |
+| Go by Example | [https://gobyexample.com/](https://gobyexample.com/) |
 
 ---
 
@@ -87,6 +84,7 @@ The learning approach aligns with **official Dart** and **Go documentation stand
 | Run Go Online | [https://go.dev/play/](https://go.dev/play/) |
 | Flowchart Design | [https://draw.io](https://draw.io) / [https://mermaid.live](https://mermaid.live) |
 | Algorithm Practice | [https://leetcode.com](https://leetcode.com) |
+| Version Control | [https://github.com](https://github.com) |
 
 ---
 
@@ -99,6 +97,8 @@ The learning approach aligns with **official Dart** and **Go documentation stand
 | 3 | Loops & Iterations | ⏳ Upcoming |
 | 4 | Functions & Parameters | ⏳ Upcoming |
 | 5 | Data Structures (Lists, Maps, Arrays) | ⏳ Upcoming |
+| 6 | Object-Oriented Programming | ⏳ Upcoming |
+| 7 | Graphs & Algorithms | ⏳ Upcoming |
 
 ---
 
@@ -139,4 +139,3 @@ If you find this repository useful:
 > Pseudocode is the language of logic.  
 > Flowcharts are the art of visualization.  
 > Dart and Go are the tools that bring your logic to life.”
-
