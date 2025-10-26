@@ -36,3 +36,107 @@ Each topic progresses from **concept → logic → visualization → implementat
 
 Each topic is organized into a dedicated folder containing logic, visualization, and implementations.
 
+
+---
+
+## 📘 Daily Lesson Format
+
+Each daily lesson follows this professional learning structure:
+
+| Step | Description |
+|------|--------------|
+| 1️⃣ | **Concept Overview** — Theoretical explanation of the topic |
+| 2️⃣ | **Pseudocode** — Logical plan of execution |
+| 3️⃣ | **Flowchart** — Visual diagram of the logic flow |
+| 4️⃣ | **Dart Code** — Implementation using Dart |
+| 5️⃣ | **Go Code** — Implementation using Go |
+| 6️⃣ | **Analysis** — Output, efficiency, and reasoning |
+
+---
+
+## 🧱 Learning Methodology
+
+> “Programming is not about syntax — it’s about structured thinking.”
+
+This repository builds the ability to:
+- Break complex problems into smaller, solvable steps  
+- Visualize algorithmic flow  
+- Apply consistent logic across different languages  
+- Transition seamlessly from **pseudocode → flowchart → real code**
+
+The learning approach aligns with **official Dart** and **Go documentation standards**.
+
+---
+
+## 📚 References & Official Documentation
+
+| Language | Official Source |
+|-----------|------------------|
+| 🦋 Dart | [https://dart.dev/language](https://dart.dev/language) |
+| 💨 Dart Guides | [https://dart.dev/guides](https://dart.dev/guides) |
+| 🐹 Go Tour | [https://go.dev/tour/](https://go.dev/tour/) |
+| 📘 Go by Example | [https://gobyexample.com/](https://gobyexample.com/) |
+
+---
+
+## ⚙️ Tools & Resources
+
+| Purpose | Tool |
+|----------|------|
+| Run Dart Online | [https://dartpad.dev](https://dartpad.dev) |
+| Run Go Online | [https://go.dev/play/](https://go.dev/play/) |
+| Flowchart Design | [https://draw.io](https://draw.io) / [https://mermaid.live](https://mermaid.live) |
+| Algorithm Practice | [https://leetcode.com](https://leetcode.com) |
+
+---
+
+## 📅 Progress Tracker
+
+| Day | Topic | Status |
+|-----|--------|--------|
+| 1 | Variables & Arithmetic Operations | 🟢 Completed |
+| 2 | Conditionals (If / Else) | 🔄 In Progress |
+| 3 | Loops & Iterations | ⏳ Upcoming |
+| 4 | Functions & Parameters | ⏳ Upcoming |
+| 5 | Data Structures (Lists, Maps, Arrays) | ⏳ Upcoming |
+
+---
+
+## 👨‍🏫 Learning Model
+
+This repository follows a **Professor–Student** structured approach:
+1. **Concept Explanation** (official docs & examples)  
+2. **Logic Building** (pseudocode + reasoning)  
+3. **Visualization** (flowcharts)  
+4. **Implementation** (Dart & Go)  
+5. **Documentation** (Markdown for each topic)  
+6. **Version Control & GitHub Upload**
+
+This ensures a **professional, reproducible, and portfolio-worthy learning trail**.
+
+---
+
+## 🧑‍💻 Author
+
+**Student:** [Your Name Here]  
+**Mentor / Guide:** ChatGPT (as Professor)  
+**Started On:** October 2025  
+**Repository:** `dart-go-zero-to-mastery`  
+**Goal:** Achieve mastery in Dart, Go, and logic-based problem solving.
+
+---
+
+## 🌟 How to Support
+
+If you find this repository useful:
+- ⭐ **Star** this repository  
+- 🔁 **Fork** it and start your own journey  
+- 🧩 **Contribute** improvements or problem examples  
+
+---
+
+> “Logic is the soul of programming.  
+> Pseudocode is the language of logic.  
+> Flowcharts are the art of visualization.  
+> Dart and Go are the tools that bring your logic to life.”
+
