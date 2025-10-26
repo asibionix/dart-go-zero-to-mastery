@@ -1,27 +1,27 @@
-# 🧠 Dart & Go — Zero to Mastery with Logic Building, Pseudocode & Flowcharts
+# Dart & Go — Zero to Mastery with Logic Building, Pseudocode & Flowcharts
 
 A complete **Zero to Mastery roadmap** for learning **Dart** and **Go (Golang)** from the ground up —  
 with a strong emphasis on **logic building**, **pseudocode**, and **flowchart-based problem solving**.
 
 ---
 
-## 🎯 Objective
+## Objective
 
-> “Before writing a single line of code, build the logic in your mind.”
+“Before writing a single line of code, build the logic in your mind.”
 
 This repository is designed to help learners master:
-- **Logic development** and algorithmic thinking  
-- Writing **pseudocode** to design programs  
-- **Flowcharting** to visualize logic  
-- Implementing solutions in both **Dart** and **Go**  
+- Logic development and algorithmic thinking  
+- Writing pseudocode to design programs  
+- Flowcharting to visualize logic  
+- Implementing solutions in both Dart and Go  
 - Building clean, efficient, and production-ready code  
-- Mastering **OOP, data structures, algorithms, and graph-based logic**
+- Mastering OOP, data structures, algorithms, and graph-based logic  
 
 Each topic progresses from **concept → logic → visualization → implementation**.
 
 ---
 
-## 🧩 Learning Framework
+## Learning Framework
 
 | Phase | Focus Area | Duration | Description |
 |-------|-------------|-----------|--------------|
@@ -35,37 +35,39 @@ Each topic progresses from **concept → logic → visualization → implementat
 
 ---
 
-## 📘 Daily Lesson Format
+## Daily Lesson Format
 
-Each daily lesson follows this professional learning structure:
+Each daily lesson follows this structured learning format:
 
 | Step | Description |
 |------|--------------|
-| 1️⃣ | **Concept Overview** — Theoretical explanation of the topic |
-| 2️⃣ | **Pseudocode** — Logical plan of execution |
-| 3️⃣ | **Flowchart** — Visual diagram of the logic flow |
-| 4️⃣ | **Dart Code** — Implementation using Dart |
-| 5️⃣ | **Go Code** — Implementation using Go |
-| 6️⃣ | **Analysis** — Output, efficiency, and reasoning |
+| 1 | Concept Overview — Theoretical explanation of the topic |
+| 2 | Pseudocode — Logical plan of execution |
+| 3 | Flowchart — Visual diagram of the logic flow |
+| 4 | Dart Code — Implementation using Dart |
+| 5 | Go Code — Implementation using Go |
+| 6 | Analysis — Output, efficiency, and reasoning |
+
+Every day we will focus on **logic building**, **pseudocode creation**, **flowchart design**, and **implementation using Dart & Go**.
 
 ---
 
-## 🧱 Learning Methodology
+## Learning Methodology
 
-> “Programming is not about syntax — it’s about structured thinking.”
+“Programming is not about syntax — it’s about structured thinking.”
 
 This repository builds the ability to:
 - Break complex problems into smaller, solvable steps  
 - Visualize algorithmic flow  
 - Apply consistent logic across different languages  
-- Transition seamlessly from **pseudocode → flowchart → real code**
-- Strengthen **problem-solving and computational thinking**
+- Transition seamlessly from pseudocode → flowchart → real code  
+- Strengthen problem-solving and computational thinking  
 
 The learning approach aligns with **official Dart** and **Go documentation standards**.
 
 ---
 
-## 📚 References & Official Documentation
+## References & Official Documentation
 
 | Language | Official Source |
 |-----------|------------------|
@@ -76,7 +78,7 @@ The learning approach aligns with **official Dart** and **Go documentation stand
 
 ---
 
-## ⚙️ Tools & Resources
+## Tools & Resources
 
 | Purpose | Tool |
 |----------|------|
@@ -88,54 +90,54 @@ The learning approach aligns with **official Dart** and **Go documentation stand
 
 ---
 
-## 📅 Progress Tracker
+## Progress Tracker
 
 | Day | Topic | Status |
 |-----|--------|--------|
-| 1 | Variables & Arithmetic Operations | 🟢 Completed |
-| 2 | Conditionals (If / Else) | 🔄 In Progress |
-| 3 | Loops & Iterations | ⏳ Upcoming |
-| 4 | Functions & Parameters | ⏳ Upcoming |
-| 5 | Data Structures (Lists, Maps, Arrays) | ⏳ Upcoming |
-| 6 | Object-Oriented Programming | ⏳ Upcoming |
-| 7 | Graphs & Algorithms | ⏳ Upcoming |
+| 1 | Variables & Arithmetic Operations | Completed |
+| 2 | Conditionals (If / Else) | In Progress |
+| 3 | Loops & Iterations | Upcoming |
+| 4 | Functions & Parameters | Upcoming |
+| 5 | Data Structures (Lists, Maps, Arrays) | Upcoming |
+| 6 | Object-Oriented Programming | Upcoming |
+| 7 | Graphs & Algorithms | Upcoming |
 
 ---
 
-## 👨‍🏫 Learning Model
+## Learning Model
 
-This repository follows a **Professor–Student** structured approach:
-1. **Concept Explanation** (official docs & examples)  
-2. **Logic Building** (pseudocode + reasoning)  
-3. **Visualization** (flowcharts)  
-4. **Implementation** (Dart & Go)  
-5. **Documentation** (Markdown for each topic)  
-6. **Version Control & GitHub Upload**
+This repository follows a structured **Professor–Student** learning model:
+1. Concept Explanation (based on official documentation and practical examples)  
+2. Logic Building (pseudocode and reasoning)  
+3. Visualization (flowcharts)  
+4. Implementation (Dart and Go)  
+5. Documentation (markdown for each topic)  
+6. Version Control and GitHub Upload  
 
-This ensures a **professional, reproducible, and portfolio-worthy learning trail**.
-
----
-
-## 🧑‍💻 Author
-
-**Student:** [Your Name Here]  
-**Mentor / Guide:** ChatGPT (as Professor)  
-**Started On:** October 2025  
-**Repository:** `dart-go-zero-to-mastery`  
-**Goal:** Achieve mastery in Dart, Go, and logic-based problem solving.
+This ensures a **professional, reproducible, and portfolio-quality learning journey**.
 
 ---
 
-## 🌟 How to Support
+## Author
+
+Student: [Your Name Here]  
+Mentor / Guide: ChatGPT (Professor)  
+Started On: October 2025  
+Repository: `dart-go-zero-to-mastery`  
+Goal: Achieve mastery in Dart, Go, and logic-based problem solving.
+
+---
+
+## How to Support
 
 If you find this repository useful:
-- ⭐ **Star** this repository  
-- 🔁 **Fork** it and start your own journey  
-- 🧩 **Contribute** improvements or problem examples  
+- Star this repository  
+- Fork it and start your own journey  
+- Contribute improvements or new problem examples  
 
 ---
 
-> “Logic is the soul of programming.  
-> Pseudocode is the language of logic.  
-> Flowcharts are the art of visualization.  
-> Dart and Go are the tools that bring your logic to life.”
+“Logic is the soul of programming.  
+Pseudocode is the language of logic.  
+Flowcharts are the art of visualization.  
+Dart and Go are the tools that bring your logic to life.”
