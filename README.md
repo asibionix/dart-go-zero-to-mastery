@@ -23,32 +23,32 @@ Each topic progresses from **concept → logic → visualization → implementat
 
 ## Learning Framework
 
-| Phase | Focus Area | Duration | Description |
-|-------|-------------|-----------|--------------|
-| 1 | Logical Thinking & Algorithm Design | Week 1–2 | Develop structured thinking using pseudocode and flowcharts |
-| 2 | Dart Foundations | Week 3–5 | Learn syntax, data types, loops, functions, collections |
-| 3 | Go Foundations | Week 6–8 | Learn Go syntax, types, functions, structs, packages |
-| 4 | Object-Oriented Programming | Week 9–10 | Master OOP concepts in both Dart and Go |
-| 5 | Data Structures & Algorithms | Week 11–14 | Implement and analyze core DSA concepts |
-| 6 | Advanced Logic & Graphs | Week 15–17 | Learn recursion, graph algorithms, and problem-solving |
-| 7 | Real-world Projects | Week 18–22 | Build complete projects (e.g., Flutter + Go backend) |
+This repository follows a **daily structured learning system**.  
+Each day focuses on a new concept from **Dart** and **Go official documentation**, developed through logic building and practice.
+
+| Step | Focus Area | Description |
+|------|-------------|--------------|
+| 1 | Concept Overview | Theoretical understanding of the topic from official docs |
+| 2 | Pseudocode | Write logical steps in plain language to outline the solution |
+| 3 | Flowchart | Visualize the logic and control flow using diagrams |
+| 4 | Dart Implementation | Code the logic in Dart |
+| 5 | Go Implementation | Code the same logic in Go |
+| 6 | Analysis | Compare outputs, efficiency, and reasoning between both languages |
+
+Every lesson is designed to strengthen your **problem-solving ability** while building fluency in **Dart and Go**.
 
 ---
 
 ## Daily Lesson Format
 
-Each daily lesson follows this structured learning format:
+Each daily lesson will contain:
+- Concept explanation  
+- Pseudocode for the problem  
+- Flowchart (drawn via Draw.io or Mermaid)  
+- Implementations in both Dart and Go  
+- Code walkthrough and analysis  
 
-| Step | Description |
-|------|--------------|
-| 1 | Concept Overview — Theoretical explanation of the topic |
-| 2 | Pseudocode — Logical plan of execution |
-| 3 | Flowchart — Visual diagram of the logic flow |
-| 4 | Dart Code — Implementation using Dart |
-| 5 | Go Code — Implementation using Go |
-| 6 | Analysis — Output, efficiency, and reasoning |
-
-Every day we will focus on **logic building**, **pseudocode creation**, **flowchart design**, and **implementation using Dart & Go**.
+This ensures complete understanding from **theory to implementation** every single day.
 
 ---
 
@@ -57,13 +57,13 @@ Every day we will focus on **logic building**, **pseudocode creation**, **flowch
 “Programming is not about syntax — it’s about structured thinking.”
 
 This repository builds the ability to:
-- Break complex problems into smaller, solvable steps  
-- Visualize algorithmic flow  
+- Break complex problems into smaller, logical steps  
+- Visualize algorithmic flow before writing code  
 - Apply consistent logic across different languages  
-- Transition seamlessly from pseudocode → flowchart → real code  
-- Strengthen problem-solving and computational thinking  
+- Transition seamlessly from pseudocode → flowchart → code  
+- Strengthen analytical and reasoning skills through practice  
 
-The learning approach aligns with **official Dart** and **Go documentation standards**.
+All lessons are based directly on **official Dart** and **Go documentation**, ensuring technical accuracy and real-world standards.
 
 ---
 
@@ -106,15 +106,16 @@ The learning approach aligns with **official Dart** and **Go documentation stand
 
 ## Learning Model
 
-This repository follows a structured **Professor–Student** learning model:
-1. Concept Explanation (based on official documentation and practical examples)  
+This repository follows a **Professor–Student learning model**, focused on mastery through repetition and logical thinking.
+
+1. Concept Explanation (based on official documentation and examples)  
 2. Logic Building (pseudocode and reasoning)  
 3. Visualization (flowcharts)  
 4. Implementation (Dart and Go)  
 5. Documentation (markdown for each topic)  
 6. Version Control and GitHub Upload  
 
-This ensures a **professional, reproducible, and portfolio-quality learning journey**.
+This ensures a **professional, reproducible, and portfolio-quality learning experience**.
 
 ---
 
@@ -132,7 +133,7 @@ Goal: Achieve mastery in Dart, Go, and logic-based problem solving.
 
 If you find this repository useful:
 - Star this repository  
-- Fork it and start your own journey  
+- Fork it and start your own learning journey  
 - Contribute improvements or new problem examples  
 
 ---
