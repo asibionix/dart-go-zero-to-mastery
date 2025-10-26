@@ -90,20 +90,6 @@ All lessons are based directly on **official Dart** and **Go documentation**, en
 
 ---
 
-## Progress Tracker
-
-| Day | Topic | Status |
-|-----|--------|--------|
-| 1 | Variables & Arithmetic Operations | Completed |
-| 2 | Conditionals (If / Else) | In Progress |
-| 3 | Loops & Iterations | Upcoming |
-| 4 | Functions & Parameters | Upcoming |
-| 5 | Data Structures (Lists, Maps, Arrays) | Upcoming |
-| 6 | Object-Oriented Programming | Upcoming |
-| 7 | Graphs & Algorithms | Upcoming |
-
----
-
 ## Learning Model
 
 This repository follows a **Professor–Student learning model**, focused on mastery through repetition and logical thinking.
