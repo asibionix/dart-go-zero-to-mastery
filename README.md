@@ -1,44 +1,38 @@
-# 🧠 Dart & Go Zero-to-Mastery — Logic Building, Pseudocode & Flowcharts
+# 🧠 Dart & Go — Zero to Mastery with Logic Building, Pseudocode & Flowcharts
 
-Welcome to my **Zero-to-Mastery journey** of learning **Dart** and **Go (Golang)** —  
-with a strong focus on **logic building**, **pseudocode**, and **flowchart-based thinking** before writing any code.
-
----
-
-## 🎯 Goal
-
-> “Think logically. Write clearly. Code precisely.”
-
-This repository is built to help me (and others) **learn how to think like a programmer** — not just memorize syntax.  
-Each topic starts with logic design (pseudocode + flowchart), and then we implement the same logic in **Dart** and **Go**.
+A complete **Zero to Mastery roadmap** for learning **Dart** and **Go (Golang)** from the ground up —  
+with a strong emphasis on **logic building**, **pseudocode**, and **flowchart-based problem solving**.
 
 ---
 
-## 🧩 What This Repository Covers
+## 🎯 Objective
 
-- 🔹 Logic building & algorithmic thinking  
-- 🔹 Pseudocode writing for every problem  
-- 🔹 Flowchart design for visual understanding  
-- 🔹 Dart implementation (based on logic)  
-- 🔹 Go implementation (same logic)  
-- 🔹 Daily progress tracking  
+> “Before writing a single line of code, build the logic in your mind.”
 
----
+This repository is designed to help learners master:
+- **Logic development** and algorithmic thinking  
+- Writing **pseudocode** to design programs  
+- **Flowcharting** to visualize logic  
+- Implementing solutions in both **Dart** and **Go**  
+- Building clean, efficient, and production-ready code  
 
-## 🗓️ Learning Framework
-
-| Phase | Focus | Duration | Description |
-|-------|--------|-----------|--------------|
-| 1 | Logic Building & Fundamentals | Week 1–2 | Understanding problem solving, pseudocode, and flowcharts |
-| 2 | Dart Programming | Week 3–5 | Variables, loops, conditionals, functions, collections |
-| 3 | Go Programming | Week 6–8 | Syntax, data types, structs, functions, packages |
-| 4 | Combined Logic Practice | Week 9–12 | Solving problems in both Dart & Go |
-| 5 | Real-world Projects | Week 13–20 | Build full apps using Flutter + Go backend |
+Each topic progresses from **concept → logic → visualization → implementation**.
 
 ---
 
-## 🧱 Daily Lesson Structure
+## 🧩 Learning Framework
 
-Every day we focus on **one small, specific concept**.  
-Each folder contains the following files:
+| Phase | Focus Area | Duration | Description |
+|-------|-------------|-----------|--------------|
+| 1 | Logical Thinking & Algorithm Design | Week 1–2 | Develop structured thinking using pseudocode and flowcharts |
+| 2 | Dart Foundations | Week 3–5 | Learn syntax, data types, loops, functions, collections |
+| 3 | Go Foundations | Week 6–8 | Learn Go syntax, types, functions, structs, packages |
+| 4 | Cross-Language Problem Solving | Week 9–12 | Solve logical problems using both Dart & Go |
+| 5 | Real-world Projects | Week 13–20 | Build complete projects (Flutter + Go backend) |
+
+---
+
+## 🗂️ Repository Structure
+
+Each topic is organized into a dedicated folder containing logic, visualization, and implementations.
 
