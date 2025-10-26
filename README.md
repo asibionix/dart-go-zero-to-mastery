@@ -15,7 +15,7 @@ This repository is designed to help learners master:
 - Flowcharting to visualize logic  
 - Implementing solutions in both Dart and Go  
 - Building clean, efficient, and production-ready code  
-- Mastering OOP, data structures, algorithms, and graph-based logic  
+- Mastering OOP, data structures, and algorithms  
 
 Each topic progresses from **concept → logic → visualization → implementation**.
 
