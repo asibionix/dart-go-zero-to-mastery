@@ -105,16 +105,6 @@ This ensures a **professional, reproducible, and portfolio-quality learning expe
 
 ---
 
-## Author
-
-Student: [Your Name Here]  
-Mentor / Guide: ChatGPT (Professor)  
-Started On: October 2025  
-Repository: `dart-go-zero-to-mastery`  
-Goal: Achieve mastery in Dart, Go, and logic-based problem solving.
-
----
-
 ## How to Support
 
 If you find this repository useful:
