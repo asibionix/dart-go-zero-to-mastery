@@ -107,10 +107,12 @@ This ensures a **professional, reproducible, and portfolio-quality learning expe
 
 ## How to Support
 
-If you find this repository useful:
-- Star this repository  
-- Fork it and start your own learning journey  
-- Contribute improvements or new problem examples  
+If you find this repository helpful:
+- ⭐ **Star** this repository to show your support  
+- 🧠 **Use it as a learning reference** for your own Dart and Go journey  
+- 💬 **Share it** with others who want to build strong logic and programming foundations  
+
+> This repository is **not open for public contributions** — it serves as a structured personal learning journey and reference.
 
 ---
 
